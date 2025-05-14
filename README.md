@@ -4,9 +4,11 @@
 
 Hello and welcome to the Guardian's event celebrating Global Accessibility Awareness Day 2025.
 
+My name is Simon Adcock, I'm an Engineering Manager in Product & Engineering.
+
 It's great to see so many people here today, thank you for coming down, and for those watching remotely, thank you for taking the time to join.
 
-My name is Simon Adcock, I'm an Engineering Manager in Product & Engineering.
+A bit of admin up front.
 
 This meeting is being recorded, for internal use only. 
 
