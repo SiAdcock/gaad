@@ -62,7 +62,7 @@ Thank you.
 
 ## Outro
 
-Thanks so much for joining us, we hope you've learned something today. We've heard about the importance of accessibility from a business and a reader perspective. We've seen how investing in accessibility can help us reach more readers, how we and Lloyds Banking Group have been investing in this space and how there's always more we can be doing.
+Thanks so much for joining us, we hope you've learned something today. We've heard about the importance of accessibility from a business and a reader perspective. We've seen how investing in accessibility can help us reach more readers, how the Guardian and Lloyds Banking Group have been investing in this space and how there's always more we can be doing.
 
 If you want to learn more, please do check out the links Gavin has shared. We will be sharing the slide decks from today to everyone who signed up. We'll also share the recording with everyone in the organisation, although we must stress this is for internal use only.
 
