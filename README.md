@@ -24,18 +24,13 @@ Here's a quick rundown of what we'll be doing today.
 
 - First we'll hear from Gavin Evans from the Digital Accessibility Centre. The DAC provide consulting, training and auditing to ensure digital media is accessible to everyone.
 - Pete Johnson from Lloyds Banking Group will be joining us. Pete will give us a case study into how Lloyds, working with the DAC, have shifted left on accessibility and  deliver accessible solutions to their customers.
-- We'll hear from the Guardian's own amazing Pip Burkett from the Editorial Design Team, explaining how the work on the UK elections was made accessible.
+- The Guardian's own Chloe Kirton from P&E will give us a quick look at some of the work the Accessibility Champions have been doing.
+- We'll hear from the amazing Pip Burkett from the Editorial Design Team, explaining how the work on the UK elections was made accessible.
 - A bit more from me at the end
 
 ## Introducing Gavin
 
 But first, we go over to Gavin at the DAC. The DAC work with a large number of very high profile companies and government departments including the NHS, Channel 4, FT and the Guardian. Gavin has many years of experience, he's even delivered a talk at the O2, and he has prepared a wonderful introduction to accessibility for us today.
-
-## Introducing Pip
-
-Thank you Gavin and Pete.
-
-We now go to Pip from the Editorial Design Team, who will talk about how the work on the UK elections was made accessible.
 
 ## Q&A
 
